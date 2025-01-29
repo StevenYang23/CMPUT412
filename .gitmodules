@@ -1,0 +1,6 @@
+[submodule "Ex1/lib"]
+	path = Ex1/lib
+	url = https://github.com/StevenYang23/lib
+[submodule "Ex1/py_env"]
+	path = Ex1/py_env
+	url = https://github.com/StevenYang23/py_env
