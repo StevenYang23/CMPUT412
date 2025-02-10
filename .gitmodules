@@ -4,3 +4,6 @@
 [submodule "Ex1/py_env"]
 	path = Ex1/py_env
 	url = https://github.com/StevenYang23/py_env
+[submodule "Ex2/412_DTROS"]
+	path = Ex2/412_DTROS
+	url = https://github.com/StevenYang23/412_DTROS
