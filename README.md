@@ -3,7 +3,7 @@
 This repository contains assignments and projects for the Duckietown robotics course -- CMPUT 412, focusing on hands-on experience with ROS (Robot Operating System) and autonomous robot control. The coursework involves implementing robotics algorithms, debugging, and developing open-source solutions using the Duckiebot platform.
 
 ## Code for Ex 1 
-[py-env](https://github.com/StevenYang23/py_env)
+[py-env](https://github.com/StevenYang23/py_env) <br>
 [lib](https://github.com/StevenYang23/lib)
 
 ## Code for Ex 2
