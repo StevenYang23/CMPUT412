@@ -4,12 +4,12 @@ This repository contains assignments and projects for the Duckietown robotics co
 
 ## Code for Ex 1 
 [py-env](https://github.com/StevenYang23/py_env)
+[lib](https://github.com/StevenYang23/lib)
 
 ## Code for Ex 2
-[lib](https://github.com/StevenYang23/lib)
 [412DTROS](https://github.com/StevenYang23/412_DTROS)
 
-
+## Lab Report
 [My course webpage](https://sites.google.com/view/stevenydjm412/home?authuser=0)
 
 
