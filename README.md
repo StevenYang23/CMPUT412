@@ -1,5 +1,5 @@
 # This is repo for CMPUT412
-Author: Steven Yang, Jiachen Huang
+Author: Steven Yang, Jiachen Huang <br>
 This repository contains assignments and projects for the Duckietown robotics course -- CMPUT 412, focusing on hands-on experience with ROS (Robot Operating System) and autonomous robot control. The coursework involves implementing robotics algorithms, debugging, and developing open-source solutions using the Duckiebot platform.
 
 ## Code for Ex 1 
