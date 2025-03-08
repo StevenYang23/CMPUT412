@@ -7,3 +7,6 @@
 [submodule "Ex2/412_DTROS"]
 	path = Ex2/412_DTROS
 	url = https://github.com/StevenYang23/412_DTROS
+[submodule "Ex2&3/412_DTROS"]
+	path = Ex2&3/412_DTROS
+	url = https://github.com/StevenYang23/412_DTROS
