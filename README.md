@@ -5,6 +5,7 @@ This repository contains assignments and projects for the Duckietown robotics co
 ## Code for Ex 1 
 [py-env](https://github.com/StevenYang23/py_env) <br>
 [lib](https://github.com/StevenYang23/lib)
+Codes in this exercise are tutorials of how to run Python with Docker on the duckit bot machine.
 
 ## Code for Ex 2
 [412DTROS](https://github.com/StevenYang23/412_DTROS)
