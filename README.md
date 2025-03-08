@@ -8,7 +8,9 @@ This repository contains assignments and projects for the Duckietown robotics co
 Codes in this exercise are tutorials of how to run Python with Docker on the duckit bot machine.
 
 ## Code for Ex 2
-[412DTROS](https://github.com/StevenYang23/412_DTROS)
+[412DTROS](https://github.com/StevenYang23/412_DTROS) <br>
+This exercise shows how to run Python with ROS, using DTROS template as a starter. 
+
 
 ## Code for Ex 3
 [412DTROS](https://github.com/StevenYang23/412_DTROS)
