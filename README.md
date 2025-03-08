@@ -9,6 +9,9 @@ This repository contains assignments and projects for the Duckietown robotics co
 ## Code for Ex 2
 [412DTROS](https://github.com/StevenYang23/412_DTROS)
 
+## Code for Ex 3
+[412DTROS](https://github.com/StevenYang23/412_DTROS)
+
 ## Lab Report
 [My course webpage](https://sites.google.com/view/stevenydjm412/home?authuser=0)
 
