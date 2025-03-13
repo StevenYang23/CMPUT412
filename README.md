@@ -61,17 +61,17 @@ Exercise 2 focuses on leveraging ROS to control the Duckiebot. Using the DTROS t
 **Overview:**  
 Exercise 3 advances into computer vision and control strategies for autonomous lane following. The work is divided into three parts:
 
-# 1. Computer Vision:
+### 1. Computer Vision:
 
 Correcting image distortion using camera intrinsic parameters.
 Pre-processing images (resizing, smoothing) and detecting colors (blue, red, green) via OpenCV.
 Implementing contour detection to identify lane markings and integrating LED controls to signal different states.
-# 2. Controllers:
+### 2. Controllers:
 
 Implementing and comparing P, PD, and PID controllers for lane following.
 Tuning controller parameters and analyzing performance over a 1.5-meter path.
 Recording and reviewing videos for each control method.
-# 3. Lane Following:
+### 3. Lane Following:
 
 Integrating vision, LED, and movement control to execute a full lap lane following.
 Analyzing performance data from ROS bag recordings and plotting the target versus actual paths.
