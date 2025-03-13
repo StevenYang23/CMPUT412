@@ -4,7 +4,7 @@ This repository contains assignments and projects for the Duckietown robotics co
 
 ---
 
-## Code for Ex 1: Duckiebot Assembly and Basic Development
+## Ex 1: Duckiebot Assembly and Basic Development
 
 **Repository Links:**  
 - [py-env](https://github.com/StevenYang23/py_env)  
@@ -27,7 +27,7 @@ This exercise introduces the basics of operating a Duckiebot and running Python 
 
 ---
 
-## Code for Ex 2: ROS Development and Kinematics
+## Ex 2: ROS Development and Kinematics
 
 **Repository Link:**  
 - [412DTROS](https://github.com/StevenYang23/412_DTROS)  
@@ -45,6 +45,44 @@ Exercise 2 focuses on leveraging ROS to control the Duckiebot. Using the DTROS t
 - Integrating image processing with ROS for real-time feedback.
 - Documenting and analyzing the differences between desired and actual robot behavior.
 - Managing ROS resources and ensuring all nodes terminate properly after execution.
+
+**How to Run the Code:**
+1. Clone the repository and navigate to the `Ex2&3/` subfolder.
+2. Follow the instructions in the accompanying README to set up Docker and run the tutorials.
+3. Verify hardware tests and run your demos as instructed.
+
+---
+
+## Ex 3: Computer Vision & Controllers for Robotics
+
+**Repository Link:**  
+- [412DTROS](https://github.com/StevenYang23/412_DTROS)  
+
+**Overview:**  
+Exercise 3 advances into computer vision and control strategies for autonomous lane following. The work is divided into three parts:
+
+# 1. Computer Vision:
+
+Correcting image distortion using camera intrinsic parameters.
+Pre-processing images (resizing, smoothing) and detecting colors (blue, red, green) via OpenCV.
+Implementing contour detection to identify lane markings and integrating LED controls to signal different states.
+# 2. Controllers:
+
+Implementing and comparing P, PD, and PID controllers for lane following.
+Tuning controller parameters and analyzing performance over a 1.5-meter path.
+Recording and reviewing videos for each control method.
+# 3. Lane Following:
+
+Integrating vision, LED, and movement control to execute a full lap lane following.
+Analyzing performance data from ROS bag recordings and plotting the target versus actual paths.
+Optional bonus tasks include reverse parking and adapting to left-hand driving systems.
+
+**Key Deliverables and Learning Points:**
+- Advanced camera calibration and undistortion techniques.
+- Robust color detection and contouring for lane recognition.
+- Development and tuning of different control strategies (P, PD, PID).
+- Integration of vision and control for real-time autonomous navigation.
+- Detailed documentation of test videos, screenshots, and calibration images.
 
 **How to Run the Code:**
 1. Clone the repository and navigate to the `Ex2&3/` subfolder.
