@@ -47,7 +47,7 @@ Exercise 2 focuses on leveraging ROS to control the Duckiebot. Using the DTROS t
 - Managing ROS resources and ensuring all nodes terminate properly after execution.
 
 **How to Run the Code:**
-1. Clone the repository and navigate to the `Ex2&3/` subfolder.
+1. Clone the repository and navigate to the `Ex2&3&4/` subfolder.
 2. Follow the instructions in the accompanying README to set up Docker and run the tutorials.
 3. Verify hardware tests and run your demos as instructed.
 
@@ -85,7 +85,7 @@ Optional bonus tasks include reverse parking and adapting to left-hand driving s
 - Detailed documentation of test videos, screenshots, and calibration images.
 
 **How to Run the Code:**
-1. Clone the repository and navigate to the `Ex2&3/` subfolder.
+1. Clone the repository and navigate to the `Ex2&3&4/` subfolder.
 2. Follow the instructions in the accompanying README to set up Docker and run the tutorials.
 3. Verify hardware tests and run your demos as instructed.
 
