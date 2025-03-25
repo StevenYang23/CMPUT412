@@ -88,3 +88,41 @@ Optional bonus tasks include reverse parking and adapting to left-hand driving s
 1. Clone the repository and navigate to the `Ex2&3/` subfolder.
 2. Follow the instructions in the accompanying README to set up Docker and run the tutorials.
 3. Verify hardware tests and run your demos as instructed.
+
+---
+
+## Ex 4: April tag, Computer Vision, Controllers for Robotics
+
+**Repository Link:**  
+- [412DTROS](https://github.com/StevenYang23/412_DTROS)  
+
+**Overview:**  
+Exercise 4 focuses on implementing Apriltag detection, pedestrian crosswalk handling, and safe navigation for the Duckiebot. The work is divided into three main sections:
+
+### 1. Apriltag Detection:
+
+Utilize the Apriltag library to detect and recognize Apriltags in the environment.
+Apply image preprocessing techniques to enhance detection.
+Change LED colors based on detected Apriltags.
+Implement a stop behavior based on detected Apriltags.
+### 2. Pedestrian Crosswalks:
+
+Detect crosswalks using color-based segmentation.
+Stop at all detected crosswalks.
+Detect "PeDuckstrians" and wait until they finish crossing before proceeding.
+### 3. Safe Navigation:
+
+Detect and respond to a broken-down Duckiebot.
+Pause and assess the situation before maneuvering around obstacles.
+Ensure smooth lane transitions before and after the maneuver.
+**Key Deliverables and Learning Points:**
+- Advanced camera calibration and undistortion techniques.
+- Robust color detection and contouring for lane recognition.
+- Integration of vision and control for real-time autonomous navigation.
+- Gain experience with the Apriltag library for computer vision tasks.
+- Utilize the robot’s camera for real-time perception and decision-making.
+
+**How to Run the Code:**
+1. Clone the repository and navigate to the `Ex2&3&4/` subfolder.
+2. Follow the instructions in the accompanying README to set up Docker and run the tutorials.
+3. Verify hardware tests and run your demos as instructed.
